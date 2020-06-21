@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DZX xmlns="www.geophysical.com/DZX/1.020000">
+    <GlobalProperties>
+        <verticalUnit>cm</verticalUnit>
+        <horizontalUnit>m</horizontalUnit>
+        <dielectric>4.000000</dielectric>
+        <readOnly>0</readOnly>
+        <unitsPerMark>2.000000</unitsPerMark>
+        <unitsPerScan>0.010000</unitsPerScan>
+    </GlobalProperties>
+    <Macro>
+        <state>0</state>
+        <Process>
+            <state>0</state>
+            <BinaryData size="16">0&amp;``!```"$`!C`!0`8P`*`"`@
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="44">L4``!```"2`!-`B^AO;\``````````'L);4%-`N0XCL```````````!W',4(@
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="150">M)`$!```"'`$["````.#`````P```F$$``)A!```(0@``"$(``"!"``""0@``
+
+M````````````````````````````````@$H``$A#``#_`3L(`````,```(!`
+
+M``#X00``-$(``#A"```X0@``.$(``(1"````````````````````````````
+
+/``````"`2@``R$(``/\!
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">MB``!```"@``$```````#``````````````````````#&lt;!&lt;@```#_`00`````
+
+;``,``````````````````````"`#9````/\!
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="16">0&amp;``!```"$``G`0``)P$``"`@
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">MB``!```"@``.`````$````````````````````````````````#_`0X`````
+
+;0````````````````````````````````/\!
+
+</BinaryData>
+        </Process>
+    </Macro>
+    <DataCollection>
+        <system>DualFrequency</system>
+        <softwareVersion>2.0.16.1209</softwareVersion>
+        <Ctable>6</Ctable>
+        <colorStretch>0.000000</colorStretch>
+        <colorSlide>0.000000</colorSlide>
+        <displayGain>-2</displayGain>
+    </DataCollection>
+    <File>
+        <scanRange>0,574</scanRange>
+        <name>392-PASHA-TEST2_051.DZT</name>
+        <Profile>
+            <scanRange>0,574</scanRange>
+            <Comment>
+                <scan>0</scan>
+                <description>Data Collection Notes: </description>
+            </Comment>
+            <WayPt>
+                <scan>510</scan>
+                <mark>User</mark>
+                <name>Mark1</name>
+            </WayPt>
+        </Profile>
+    </File>
+</DZX>

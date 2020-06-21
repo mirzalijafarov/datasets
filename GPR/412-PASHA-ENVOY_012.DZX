@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DZX xmlns="www.geophysical.com/DZX/1.020000">
+    <GlobalProperties>
+        <verticalUnit>cm</verticalUnit>
+        <horizontalUnit>m</horizontalUnit>
+        <dielectric>7.172168</dielectric>
+        <readOnly>0</readOnly>
+        <unitsPerMark>2.000000</unitsPerMark>
+        <unitsPerScan>0.010000</unitsPerScan>
+    </GlobalProperties>
+    <Macro>
+        <state>0</state>
+        <Process>
+            <state>0</state>
+            <BinaryData size="16">0&amp;``!```"$`!C`!0`8P`*`"`@
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="44">L4``!```"2`!-`G@_Z+\``````````*LGD4%-`G@_:,```````````*LG$4(@
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="150">M)`$!```"'`$[`P```,#```"`00``0$(`````````````````````````````
+
+M````````````````````````````````@$H``$A#``#_`3L#````H,$```1"
+
+M``!00@``````````````````````````````````````````````````````
+
+/``````"`2@``R$(``/\!
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">MB``!```"@``$```````#``````````````````````#&lt;!&lt;@```#_`00`````
+
+;``,``````````````````````"`#9````/\!
+
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">MB``!```"@``-````H$````````````````````````````````#_`0T```"@
+
+;0````````````````````````````````/\!
+
+</BinaryData>
+        </Process>
+    </Macro>
+    <DataCollection>
+        <system>DualFrequency</system>
+        <softwareVersion>2.0.16.1209</softwareVersion>
+        <Ctable>6</Ctable>
+        <colorStretch>0.000000</colorStretch>
+        <colorSlide>0.000000</colorSlide>
+        <displayGain>0</displayGain>
+    </DataCollection>
+    <TargetGroup>
+        <groupName>Pipe</groupName>
+        <display>1</display>
+        <color>9</color>
+        <sizePx>5</sizePx>
+        <outline>0</outline>
+        <readOnly>0</readOnly>
+        <outline>0</outline>
+        <diameter>1.041667</diameter>
+        <link>0</link>
+        <pickType>0</pickType>
+        <layerNum>0</layerNum>
+        <velMethod>0</velMethod>
+        <lockVelocity>0</lockVelocity>
+        <defaultVelocity>12.247449</defaultVelocity>
+        <TargetWayPt>
+            <scanSampChanProp>543,372,0,0</scanSampChanProp>
+            <timeAmpDepVel>1245.894165,1501.000000,69.782608,12.247449</timeAmpDepVel>
+        </TargetWayPt>
+    </TargetGroup>
+</DZX>

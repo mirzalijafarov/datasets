@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DZX xmlns="www.geophysical.com/DZX/1.020000">
+    <GlobalProperties>
+        <verticalUnit>cm</verticalUnit>
+        <horizontalUnit>m</horizontalUnit>
+        <dielectric>6.000000</dielectric>
+        <readOnly>0</readOnly>
+        <unitsPerMark>2.000000</unitsPerMark>
+        <unitsPerScan>0.010000</unitsPerScan>
+    </GlobalProperties>
+    <Macro>
+        <state>0</state>
+        <Process>
+            <state>0</state>
+            <BinaryData size="16">0&amp;``!```"$`!C`!0`8P`*`"`@
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="44">L4``!```"2`!-`G@_Z+\``````````*LGD4%-`G@_:,```````````*LG$4(@
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="150">M)`$!```"'`$[!0````#!````00``\$$```!"``!$0@``````````````````
+M````````````````````````````````@$H``$A#``#_`3L%````B,$``#!!
+M``#`00``!$(``#Q"````````````````````````````````````````````
+/``````"`2@``R$(``/\!
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">MB``!```"@``$```````#``````````````````````#&lt;!&lt;@```#_`00`````
+;``,``````````````````````"`#9````/\!
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">MB``!```"@``-````P$````````````````````````````````#_`0T```#`
+;0````````````````````````````````/\!
+</BinaryData>
+        </Process>
+    </Macro>
+    <DataCollection>
+        <system>DualFrequency</system>
+        <softwareVersion>2.0.16.1209</softwareVersion>
+        <Ctable>7</Ctable>
+        <colorStretch>0.000000</colorStretch>
+        <colorSlide>0.000000</colorSlide>
+        <displayGain>0</displayGain>
+    </DataCollection>
+</DZX>
