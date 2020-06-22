@@ -1,0 +1,159 @@
+
+===================================================
+===   Session started at 2018/09/18, 10:57:40   ===
+===================================================
+
+New Project:         Rayleigh MASW-SASW        
+File linked: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-1.DAT
+File linked: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-2.DAT
+File linked: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-3.DAT
+File linked: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-4.DAT
+File linked: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-5.DAT
+5 file(s) linked
+Initial position=10m, Receivers step=5m, Sampling interval=2ms
+D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-1.DAT has a trig shift =  0
+D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-2.DAT has a trig shift =  139
+D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-3.DAT has a trig shift =  228
+D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-4.DAT has a trig shift =  -531
+D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-5.DAT has a trig shift =  -188
+Seismogram Resized: (1-24; 1-351)
+Seismogram DC-Remove (1-24; 1-351) on D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-1.DAT
+Seismogram DC-Remove (1-24; 1-351) on D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-2.DAT
+Seismogram DC-Remove (1-24; 1-351) on D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-3.DAT
+Seismogram DC-Remove (1-24; 1-351) on D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-4.DAT
+Seismogram DC-Remove (1-24; 1-351) on D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-5.DAT
+Seismogram Flipped: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-1.DAT
+Seismogram Flipped: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-2.DAT
+Seismogram Flipped: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-3.DAT
+Seismogram Flipped: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-4.DAT
+Seismogram Flipped: D:\392-PASHA-Winter\Seismic Raw Data\391-Line1\391-Line1 MASW\391-l1m6-5.DAT
+FK Spectrum [1024x1024], Window type=Hanning
+Dispersion curve number 1 found
+Dispersion curve: points deleted
+Dispersion curve: point added
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: points deleted
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: point added
+Dispersion curve: points added
+Forward model (5 layers)
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   299.000000   598.000000     0.333000     1.800000 
+    4.800000     2.600000   251.000000   502.000000     0.333000     1.800000 
+    8.700000     7.400000   263.000000   526.000000     0.333000     1.800000 
+   15.700000    16.100000   318.000000   636.000000     0.333000     1.800000 
+                31.800000   451.000000   901.000000     0.333000     1.800000 
+Data Error: 9.01
+Inversion started
+Iteration  1; RMS= 8.66;
+	Vs       =      299.000000    251.000000    263.000000    318.000000    451.000000 
+Iteration  2; RMS= 3.65;
+	Vs       =      358.008616    249.421775    248.276223    458.384712    488.294506 
+Iteration  3; RMS= 3.76;
+	Vs       =      313.588413    240.868895    271.132084    407.465409    616.273387 
+Iteration  4; RMS= 3.22;
+	Vs       =      429.330388    220.587602    262.238398    437.682803    549.953773 
+Iteration  5; RMS= 5.05;
+	Vs       =      279.537197    248.109839    264.171991    422.487939    614.198490 
+Iteration  6; RMS= 3.06;
+	Vs       =      413.213834    224.314965    262.065613    441.070676    562.270399 
+Iteration  7; RMS= 4.14;
+	Vs       =      298.489553    245.506006    265.405175    421.399011    614.540721 
+Iteration  8; RMS= 3.15;
+	Vs       =      358.438714    245.131063    259.302972    446.680019    494.637603 
+Iteration  9; RMS= 2.84;
+	Vs       =      372.297756    231.862960    267.971471    417.731531    598.217728 
+Iteration 10; RMS= 2.84;
+	Vs       =      377.617337    233.651306    263.305953    434.247012    582.548022 
+Maximum number of iterations exceeded with rms error: 2.870721
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   351.000000   701.000000     0.333000     1.800000 
+    4.800000     2.600000   238.000000   475.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   531.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1204.000000     0.333000     1.800000 
+Data Error: 5.84
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   198.000000   395.000000     0.333000     1.800000 
+    4.800000     2.600000   238.000000   476.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 23.08
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   198.000000   396.000000     0.333000     1.800000 
+    4.800000     2.600000   229.000000   457.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 24.23
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   213.000000   425.000000     0.333000     1.800000 
+    4.800000     2.600000   229.000000   458.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 21.46
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   258.000000   515.000000     0.333000     1.800000 
+    4.800000     2.600000   229.000000   458.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 14.96
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   273.000000   546.000000     0.333000     1.800000 
+    4.800000     2.600000   229.000000   458.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 13.21
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   273.000000   546.000000     0.333000     1.800000 
+    4.800000     2.600000   260.000000   520.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 8.83
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   273.000000   546.000000     0.333000     1.800000 
+    4.800000     2.600000   277.000000   553.000000     0.333000     1.800000 
+    8.700000     7.400000   266.000000   532.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 7.04
+Model:
+    Thickness    Depth        Vs           Vp           Poisson      Density
+    2.600000     0.000000   273.000000   546.000000     0.333000     1.800000 
+    4.800000     2.600000   277.000000   554.000000     0.333000     1.800000 
+    8.700000     7.400000   284.000000   568.000000     0.333000     1.800000 
+   15.700000    16.100000   427.000000   853.000000     0.333000     1.800000 
+                31.800000   603.000000  1205.000000     0.333000     1.800000 
+Data Error: 7.48

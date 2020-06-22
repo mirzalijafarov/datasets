@@ -1,0 +1,27 @@
+Seismic Refracrtion
+
+Total shots point-9
+Total shots for every point-5
+Distance between Geophones-5m
+
+391-L1R1-1
+
+
+Project number; 391
+Line ID; L1
+Shot ID; R1
+Shot number; 1
+
+
+MASW
+
+Total shots point-6
+Total shots for every point-5
+Distance between Geophones-5m
+
+391-L1M1-1
+
+Project number; 391
+Line ID; L1
+Shot ID; M1
+Shot number; 1
